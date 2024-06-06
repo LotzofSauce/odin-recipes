@@ -1,0 +1,1 @@
+In this project I am building a basic recipe website. The  website will consist of a main index page which will have links to a few recipes. Im not looking to style it much right now, but will be more focused on structure. Im looking to improve on my html skills and how to manipulate webpages. 
