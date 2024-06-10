@@ -1,6 +1,10 @@
 /* styles.css */
 
+body {
+    background-color: antiquewhite;
+} 
+
+
 #title {
     text-align: center;
-    
 }
