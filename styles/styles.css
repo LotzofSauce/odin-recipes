@@ -4,6 +4,13 @@ body {
     background-color: antiquewhite;
 } 
 
+img {
+    max-height: 75%;
+    max-width: 75%;
+    display: block;
+    margin: auto;
+    
+}
 
 #title {
     text-align: center;
