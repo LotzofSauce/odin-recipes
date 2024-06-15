@@ -3,9 +3,10 @@
 * {
     margin: 40px;
     padding: 0px;
-    box-sizing: border-box;
-    
+    box-sizing: content-box;
+    display: flexbox;
 }
+
 body {
     background-color: antiquewhite;
 } 
