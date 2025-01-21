@@ -18,11 +18,11 @@ img {
     
 }
 
-#title {
+.title {
     text-align: center;
 }
 
-#center-list {
+.center-list {
     text-align: center;
     list-style-type: none;
 }
