@@ -3,11 +3,14 @@
 * {
     margin: 40px;
     padding: 0px;
-    display: flexbox;
+    
 }
 
 body {
     background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
 } 
 
 img {
@@ -25,4 +28,6 @@ img {
 .center-list {
     text-align: center;
     list-style-type: none;
+    
 }
+
